@@ -57,12 +57,6 @@
 
 ---
 
-### 📈 Thống kê GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ducmawhz&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ducmawhz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ducmawhz&theme=tokyonight&hide_border=true" alt="streak graph" />

@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=180&section=header&text=Nguyen%20Duc%20Manh&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=180&section=header&text=duc.mawhz&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
   
   <h3>🌌 Chào mừng bạn đến với không gian của mình!</h3>
   <p><b>Sinh viên Đại học FPT | Định hướng Junior / Intern Business Analyst | Tiếng Nhật N4</b></p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=H%E1%BB%8Dc+t%E1%BA%ADp+%26+Ph%C3%A2n+t%C3%ADch+y%C3%AAu+c%E1%BA%A7u+ph%E1%BA%A7n+m%E1%BB%81m;L%C3%A0m+quen+v%E1%BB%9Bi+t%C3%A0i+li%E1%BB%87u+SRS%2C+Use+Case+%26+UI%2FUX;N%E1%BB%81n+t%E1%BA%A3ng+L%E1%BA%ADp+tr%C3%ACnh+Web%2C+SQL+%26+Ti%E1%BA%BFng+Nh%E1%BA%ADt+N4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=H%E1%BB%8Dc+t%E1%BA%ADp+%26+Ph%C3%A2n+t%C3%ADch+y%C3%AAu+c%E1%BA%A7u+ph%E1%BA%A7n+m%E1%BB%81m;L%C3%A0m+quen+v%E1%BB%9Bi+t%C3%A0i+li%E1%BB%87u+SRS%2C+Use+Case+%26+UI%2FUX;N%E1%BB%81n+t%E1%BA%A3ng+L%E1%BA%ADp+tr%C3%ACnh+Web%2C+SQL+%26+Ti%E1%BA%BFng+Nh%E1%BA%ADt+N4" alt="Typing SVG" />
   </p>
 
   <p>
@@ -60,12 +60,12 @@
 ### 📈 Thống kê GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmalhhh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmalhhh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ducmawhz&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ducmawhz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmalhhh&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=ducmawhz&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---

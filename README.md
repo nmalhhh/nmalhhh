@@ -8,11 +8,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=H%E1%BB%8Dc+t%E1%BA%ADp+%26+Ph%C3%A2n+t%C3%ADch+y%C3%AAu+c%E1%BA%A7u+ph%E1%BA%A7n+m%E1%BB%81m;L%C3%A0m+quen+v%E1%BB%9Bi+t%C3%A0i+li%E1%BB%87u+SRS%2C+Use+Case+%26+UI%2FUX;N%E1%BB%81n+t%E1%BA%A3ng+L%E1%BA%ADp+tr%C3%ACnh+Web%2C+SQL+%26+Ti%E1%BA%BFng+Nh%E1%BA%ADt+N4" alt="Typing SVG" />
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/duc-manh-09b49338a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.facebook.com/duc.mawhz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="mailto:ducmawhz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/duc-manh-09b49338a/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:ducmawhz@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://nmalhhh.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6B46C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 </div>
 
 <hr/>

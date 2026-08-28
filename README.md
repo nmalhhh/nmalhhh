@@ -1,50 +1,75 @@
-# Xin chào, mình là Nguyễn Đức Mạnh 👋
-### Sinh viên Kỹ thuật Phần mềm | Định hướng Junior / Intern Business Analyst
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=180&section=header&text=Nguyen%20Duc%20Manh&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  
+  <h3>🌌 Chào mừng bạn đến với không gian của mình!</h3>
+  <p><b>Sinh viên Đại học FPT | Định hướng Junior / Intern Business Analyst | Tiếng Nhật N4</b></p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E76A8&width=450&lines=H%E1%BB%8Dc+t%E1%BA%ADp+%26+R%C3%A8n+luy%E1%BB%87n+k%E1%BB%B9+n%C4%83ng+BA;H%E1%BB%97+tr%E1%BB%A3+vi%E1%BA%BFt+t%C3%A0i+li%E1%BB%87u+SRS+%26+Use+Case;C%C6%A1+b%E1%BA%A3n+v%E1%BB%81+Web%2C+SQL+%26+Ti%E1%BA%BFng+Nh%E1%BA%ADt+N4" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=H%E1%BB%8Dc+t%E1%BA%ADp+%26+Ph%C3%A2n+t%C3%ADch+y%C3%AAu+c%E1%BA%A7u+ph%E1%BA%A7n+m%E1%BB%81m;L%C3%A0m+quen+v%E1%BB%9Bi+t%C3%A0i+li%E1%BB%87u+SRS%2C+Use+Case+%26+UI%2FUX;N%E1%BB%81n+t%E1%BA%A3ng+L%E1%BA%ADp+tr%C3%ACnh+Web%2C+SQL+%26+Ti%E1%BA%BFng+Nh%E1%BA%ADt+N4" alt="Typing SVG" />
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/duc-manh-09b49338a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/duc.mawhz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="mailto:ducmawhz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+</div>
+
+<hr/>
+
+### 💻 Giới thiệu bản thân
+* 🎓 **Học vấn:** Sinh viên chuyên ngành Kỹ thuật Phần mềm tại **Đại học FPT**.
+* 🎯 **Mục tiêu:** Tìm kiếm cơ hội thực tập **Fresher / Intern Business Analyst (BA)** hoặc **Com-Tor**.
+* 📚 **Hiện tại:** Rèn luyện tư duy phân tích bài toán thực tế, chuẩn hóa tài liệu đặc tả và trau dồi tiếng Nhật lên N3.
+* 🤝 **Thế mạnh:** Giao tiếp tốt, nắm chắc nền tảng cơ bản về quy trình phần mềm và hiểu logic code web.
 
 ---
 
-### 📌 Giới thiệu bản thân
-- 🎓 **Học vấn:** Sinh viên chuyên ngành Kỹ thuật Phần mềm tại **Đại học FPT**.
-- 🎯 **Mục tiêu:** Ứng tuyển vị trí **Fresher / Intern Business Analyst (BA)** hoặc **Com-Tor**, mong muốn học hỏi và tham gia vào quy trình phát triển phần mềm thực tế.
-- 💡 **Kiến thức & Kỹ năng nền tảng:**
-  - **Nghiệp vụ phần mềm:** Đã học và thực hành viết tài liệu đặc tả yêu cầu (SRS), mô tả Use Case, luồng chức năng và vẽ sơ đồ hệ thống.
-  - **Giao diện:** Biết dựng sơ đồ giao diện cơ bản (Wireframe) và luồng thao tác người dùng.
-  - **Kỹ thuật & Dữ liệu:** Có nền tảng về lập trình web (Java Web), truy vấn dữ liệu SQL cơ bản và nắm được quy trình kiểm thử (Testing cơ bản).
-- 🌐 **Ngoại ngữ:** Tiếng Nhật **JLPT N4** (đang tiếp tục học nâng cao).
+### 🚀 Bộ kỹ năng & Công cụ (Tech & BA Stack)
 
----
+<div align="center">
 
-### 🛠 Kỹ năng & Công cụ đã học
+#### 📊 Kỹ năng BA & Nghiệp vụ
+<img src="https://img.shields.io/badge/Tài_liệu-SRS%20%7C%20Use%20Cases-0077B5?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Giao_diện-Wireframe_cơ_bản-orange?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Kiểm_thử-Testing_cơ_bản-green?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Ngoại_ngữ-Tiếng_Nhật_JLPT_N4-red?style=flat-square&logoColor=white" />
 
-#### 📊 Kỹ năng BA & Phân tích
-![Tài liệu yêu cầu](https://img.shields.io/badge/Tài_liệu-SRS%20%7C%20Use%20Cases-00599C?style=for-the-badge)
-![Wireframe](https://img.shields.io/badge/Giao_diện-Wireframe_cơ_bản-F24E1E?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Kiểm_thử-Test_Case_cơ_bản-green?style=for-the-badge)
-![Tiếng Nhật](https://img.shields.io/badge/Tiếng_Nhật-JLPT_N4-red?style=for-the-badge)
-
-#### 🧰 Công cụ vẽ sơ đồ & Thiết kế
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-1B365D?style=for-the-badge&logo=visualparadigm&logoColor=white)
+#### 🔧 Công cụ hỗ trợ
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Paradigm-1B365D?style=flat-square&logo=visualparadigm&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 #### 🗄 Kỹ thuật nền tảng
-![SQL](https://img.shields.io/badge/Cơ_sở_dữ_liệu-SQL_cơ_bản-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Java Web](https://img.shields.io/badge/Lập_trình-Java_Web_cơ_bản-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-Truy_vấn_cơ_bản-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_Web-Servlet%2FJSP-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5%2FCSS3-Giao_diện_web-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+</div>
 
 ---
 
-### 📂 Dự án học tập / Thực hành
+### 📂 Dự án học tập & Thực hành
 
-| Dự án | Vai trò | Nội dung thực hiện | Liên kết |
+| Dự án | Vai trò | Nội dung thực hiện | Chi tiết |
 | :--- | :--- | :--- | :---: |
-| **TimViecSV - Cổng tìm kiếm việc làm cho sinh viên** | Thành viên nhóm (BA & Phân tích yêu cầu) | Tìm hiểu yêu cầu người dùng, hỗ trợ lên danh sách Use Case, vẽ luồng màn hình và viết tài liệu chức năng cho dự án. | [👉 Xem dự án](https://github.com/wangfong232/timviecsv) |
+| **TimViecSV - Cổng tìm kiếm việc làm cho sinh viên** | Thành viên nhóm (Hỗ trợ BA & Phân tích) | Khảo sát nhu cầu tuyển dụng sinh viên; hỗ trợ viết mô tả Use Case, dựng giao diện và tài liệu hệ thống. | [👉 Ghé thăm Repo](https://github.com/wangfong232/timviecsv) |
 
 ---
 
-### 📬 Thông tin liên hệ
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-manh-09b49338a/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duc.mawhz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ducmawhz@gmail.com)
+### 📈 Thống kê GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmalhhh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmalhhh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmalhhh&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=100&section=footer" width="100%"/>
+</div>

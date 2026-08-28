@@ -55,11 +55,6 @@
 | **MovieStream - Web Xem Phim Trực Tuyến** | Phân tích nghiệp vụ & Phát triển CSDL | Phân tích bài toán phân loại phim đa quốc gia, luồng xem phim nhiều mùa/tập; thiết kế cơ sở dữ liệu quan hệ, thủ tục xử lý bình luận phân tầng, cảm xúc và tiến độ xem của người dùng. | [ Xem dự án](https://github.com/nmalhhh/Movie-Stream) |
 | **TimViecSV - Cổng tìm kiếm việc làm cho sinh viên** | Thành viên nhóm (Hỗ trợ BA & Phân tích) | Khảo sát nhu cầu tuyển dụng sinh viên; hỗ trợ viết mô tả Use Case, dựng giao diện và tài liệu hệ thống. | [ Xem dự án](https://github.com/wangfong232/timviecsv) |
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ducmawhz&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
 ---
 
 <div align="center">

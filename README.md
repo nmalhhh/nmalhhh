@@ -38,7 +38,6 @@
 #### 🔧 Công cụ hỗ trợ
 <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Paradigm-1B365D?style=flat-square&logo=visualparadigm&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 #### 🗄 Kỹ thuật nền tảng
 <img src="https://img.shields.io/badge/SQL-Truy_vấn_cơ_bản-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
